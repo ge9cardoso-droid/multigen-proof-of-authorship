@@ -18,20 +18,48 @@ This declaration follows established cryptographic proof-of-existence methodolog
 
 The proprietary character **"Borboleta Roxa"** (Purple Butterfly) and the associated narrative universe constitute pre-existing intellectual property created by the inventor in approximately 2014 in Israel, prior to the formation of the MULTI-GEN project, and predating any subsequent publication or disclosure.
 
+## Scope of Documented Invention
+
+The inventor hereby declares the existence, as of the dates anchored cryptographically herein, of a **substantial and integrated body of private documentation** constituting the complete specification of the MULTI-GEN invention.
+
+This body of documentation, the specific contents of which are **not disclosed in this public declaration**, encompasses — without limitation and in their unique combination and integration — the following categories of intellectual property:
+
+- Technical architecture and operational specifications
+- Conceptual frameworks and design principles
+- Proprietary narrative intellectual property and character designs (including the pre-existing character "Borboleta Roxa", established by the inventor since approximately 2014)
+- Methods, mechanics, sequences, configurations, and protocols
+- Strategic, commercial, partnership, and licensing frameworks
+- Analytical, intelligence, and competitive research documentation
+- Operational, infrastructural, and execution roadmaps
+- Philosophical, ethical, and psychological foundational documentation
+
+The **complete set of private documents** is cryptographically referenced collectively by the hash bundle anchored to the Bitcoin blockchain as specified in this declaration. The **aggregate of these documents in their unique combination, integration, configuration, and sequencing** constitutes the invention — the totality of which is held exclusively by the inventor.
+
+The specific content within each category above — including but not limited to operational sequences, narrative canon, mechanical specifications, technical algorithms, architectural diagrams, configuration parameters, strategic frameworks, character canon, and commercial models — is held privately by the inventor and is disclosed only under formal non-disclosure agreement or under compulsion of competent judicial authority.
+
+The cryptographic hash bundle referenced herein, anchored to the Bitcoin blockchain as of the priority dates established, constitutes irrefutable proof of the **existence**, **integrity**, and **chronological priority** of each individual document and of the integrated project as a whole, verifiable independently by any party using the OpenTimestamps verification protocol against the Bitcoin blockchain.
+
+Any system, product, framework, application, or invention which substantially overlaps with the documented content — and which is claimed, registered, filed, or made publicly known at a date later than the priority dates herein established — shall be deemed potentially infringing upon the intellectual property rights of the inventor. Such infringement shall be subject to challenge based on the chronological prior art established by this declaration and by the cryptographic anchors specified herein, including but not limited to formal patent oppositions, copyright enforcement actions, trade secret protection claims, and other legal remedies available under applicable jurisdiction.
+
 ## Cryptographic Anchors
 
-The integrity of the privately-held project documentation as of this date is anchored to the Bitcoin blockchain via the following cryptographic references:
+The integrity of the privately-held project documentation is anchored to the Bitcoin blockchain via a continuous chronological chain of references. The most recent bundle represents the current state of the documentation; earlier bundles preserve the state of the documentation at their respective dates. Together, they constitute uninterrupted proof of inventorship from 27 May 2026 onwards.
 
-- **Hashes Bundle file:** `HASHES_BUNDLE_29-05-2026.txt`
-- **Hashes Bundle SHA-256:** `FF7531DB49045B3E65EDE6D63BA41DE9F4DE2DA760CF8152952A3273C8E211CF`
-- **Bitcoin proof:** `HASHES_BUNDLE_29-05-2026.txt.ots` (OpenTimestamps protocol)
+### Current bundle (most recent state)
 
-Previous anchored proofs (27 May 2026):
+- **File:** `HASHES_BUNDLE_30-05-2026_v2.txt`
+- **SHA-256:** `9ABE5A5F69CA7145C1F7350E351C790982C43F65D8C70C52BED2E54511EB528C`
+- **Bitcoin proof:** `HASHES_BUNDLE_30-05-2026_v2.txt.ots`
+
+### Previous bundles (preserved as chronological evidence)
+
+- `HASHES_BUNDLE_30-05-2026.txt` + `HASHES_BUNDLE_30-05-2026.txt.ots`
+- `HASHES_BUNDLE_29-05-2026.txt` + `HASHES_BUNDLE_29-05-2026.txt.ots`
 - `HASHES_BUNDLE_27-05-2026.txt.ots`
 - `WHITEPAPER_TESE_UNIFICADA.md.ots`
 - `MEDIUM_POST_DRAFT_27-05-2026.md.ots`
 
-The combination establishes a continuous chronological chain of authorship proof from 23 May 2026 onwards, verifiable independently by any party using the OpenTimestamps verification tool against the Bitcoin blockchain.
+Each `.ots` file independently proves, via the Bitcoin blockchain, that the corresponding content existed at or before the indicated date. The complete chain — bundle 27-05 → bundle 29-05 → bundle 30-05 — establishes a continuous, verifiable chronological record of the project documentation, anchored cryptographically with no possibility of retroactive alteration.
 
 ## Verification
 
